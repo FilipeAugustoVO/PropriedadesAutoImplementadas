@@ -1,0 +1,11 @@
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.csprojAssemblyReference.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.AssemblyInfoInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.AssemblyInfo.cs
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\bin\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.deps.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\bin\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.runtimeconfig.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\bin\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.runtimeconfig.dev.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\bin\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\bin\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.pdb
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\PropriedadesAutoImplementadas2\PropriedadesAutoImplementadas2\obj\Debug\netcoreapp2.1\PropriedadesAutoImplementadas2.pdb
